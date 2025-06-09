@@ -25,11 +25,6 @@
 <br/>
 
 
-<strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
-  MICROSOFT 365 HEALTH
-</strong>
-
-
 <ul>
 <li>
   <a href="https://github.com/RashadHagen/Microsoft-365-Admin-Center-Microsoft-365-Health-Tab-Overview">
