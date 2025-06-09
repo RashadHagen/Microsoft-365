@@ -22,9 +22,6 @@
 </ul>
 
 
-<br/>
-
-
 <ul>
 <li>
   <a href="https://github.com/RashadHagen/Microsoft-365-Admin-Center-Microsoft-365-Health-Tab-Overview">
