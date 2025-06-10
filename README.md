@@ -53,7 +53,7 @@
 <ul>
 <li>
   <a href="https://github.com/RashadHagen/Microsoft-365-Admin-Center-Microsoft-365-Health-Tab-Overview">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft 365 Admin Center – Microsoft 365 Health Tab Overview</strong>
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft 365 - Admin Center – Health Tab Overview</strong>
   </a>
   <br/>
 </li>
